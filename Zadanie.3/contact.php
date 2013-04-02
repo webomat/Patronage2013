@@ -2,7 +2,7 @@
  <html>
  <head>
 	 <meta charset="utf-8">
-	 <title>Getting started with Bootstrap</title>
+	 <title>Patronage Responsive layout - contact</title>
 	 <link rel="stylesheet" href="css/bootstrap.css">
 	 <link rel="stylesheet" href="css/bootstrap-responsive.css">
  </head>
